@@ -115,6 +115,7 @@
 				TargetAttributes = {
 					314EDDCB1B55008F0003D9F1 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = C299C2M2ZC;
 					};
 				};
 			};
@@ -269,6 +270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C299C2M2ZC;
 				INFOPLIST_FILE = RSAUtil/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -279,6 +281,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = C299C2M2ZC;
 				INFOPLIST_FILE = RSAUtil/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";

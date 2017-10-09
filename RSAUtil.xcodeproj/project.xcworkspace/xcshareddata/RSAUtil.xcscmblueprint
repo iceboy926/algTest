@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3638C1754D4441E29E093C049939958D2C6DD489",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0FCF057405D50E0F54C86A564EB5510C1EFDE566" : 0,
+    "3638C1754D4441E29E093C049939958D2C6DD489" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8B2757A-71D6-4FD4-BC9D-FA99AC4DD58F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0FCF057405D50E0F54C86A564EB5510C1EFDE566" : "Objective-C-RSA",
+    "3638C1754D4441E29E093C049939958D2C6DD489" : "algTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RSAUtil",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RSAUtil.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ideawu\/Objective-C-RSA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FCF057405D50E0F54C86A564EB5510C1EFDE566"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iceboy926\/algTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3638C1754D4441E29E093C049939958D2C6DD489"
+    }
+  ]
+}
